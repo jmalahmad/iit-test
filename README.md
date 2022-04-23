@@ -1,2 +1,1 @@
 # Omicrone-test
-# Hello
